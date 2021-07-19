@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davide039
-- 👀 I’m interested in Web Development, React, C++ and Java.
-- 🌱 I’m currently learning React and Android development
+- 👀 I’m interested in React, Angular, Python.
+- 🌱 I’m currently learning Angular.
 
 <!---
 Davide039/Davide039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
